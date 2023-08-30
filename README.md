@@ -1,0 +1,1 @@
+# everyname-rust-package
