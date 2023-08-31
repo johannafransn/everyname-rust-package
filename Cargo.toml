@@ -8,3 +8,4 @@ authors = ["https://github.com/johannafransn"]
 
 [dependencies]
 dotenv = "0.15"
+reqwest = "0.11"
