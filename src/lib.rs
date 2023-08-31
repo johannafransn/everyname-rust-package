@@ -1,5 +1,7 @@
 
 use reqwest;
+use dotenv::dotenv;
+
 
 #[tokio::main]
 async fn main() -> Result<(), reqwest::Error> {

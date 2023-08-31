@@ -1,1 +1,27 @@
-/target
+# Rust/Cargo generated files
+/target/
+Cargo.lock
+
+# Crates.io files
+.crates.toml
+
+# Compiled output
+*.rs.bk
+
+# Dependency directories
+/local/
+.rustup/
+.rust/
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Optional: Exclude .env file if you're using dotenv
+# .env
